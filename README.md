@@ -17,7 +17,7 @@ This Python script is designed to identify the user's distance from the screen a
 * Detect face distance from the screen.
 * Count eye blinks.
 * Change brightness according to the environment.
-### future plans
+### Future plans
 * Add sound effects to notify
 * Make it lightweight
 * How much time is spent on the screen
