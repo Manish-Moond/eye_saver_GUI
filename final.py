@@ -5,12 +5,10 @@ from PIL import Image
 import cv2
 import PIL.Image
 import PIL.ImageTk
-import time
 import dlib
 from numpy.core import shape_base
 from numpy.core.fromnumeric import shape
 import numpy as np
-import imutils
 from scipy import spatial
 from scipy.spatial import distance as dist
 from imutils import face_utils

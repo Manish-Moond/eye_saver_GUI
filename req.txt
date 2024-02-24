@@ -1,0 +1,4 @@
+pypiwin32==223
+pywin32==306
+screen-brightness-control==0.22.1
+WMI==1.5.1
